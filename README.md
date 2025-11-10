@@ -8,4 +8,4 @@ Incluye señales de alerta, rutas de apoyo y un cartel digital con mensaje de re
 - https://www.inmujeres.gob.mx  
 - https://www.un.org/es/observances/end-violence-against-women-day  
 
-🔗 **Sitio publicado:** [https://tuusuario.github.io/cultura-paz-Angel-Jimenez/](https://tuusuario.github.io/cultura-paz-Angel-Jimenez/)
+🔗 **Sitio publicado:** [https://angeljjp.github.io/Cultura-paz-Angel-Jimenez/](https://angeljjp.github.io/Cultura-paz-Angel-Jimenez/)
